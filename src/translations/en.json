@@ -1,0 +1,93 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred"
+  },
+  "header": {
+    "title": "GauSakhi",
+    "subtitle": "Empowering Gau-sewa"
+  },
+  "hero": {
+    "title": "GauSakhi",
+    "subtitle": "Empowering Gau-sewa",
+    "description": "Field app for farmer onboarding, RFID scanning, and contribution tracking — built for rural India.",
+    "downloadButton": "Download App",
+    "watchButton": "See How It Works",
+    "fieldOperationsTag": "Field Operations Made Simple"
+  },
+  "about": {
+    "title": "You Do the Work. GauSakhi Does the Rest.",
+    "features": {
+      "voice": {
+        "title": "Just speak in Hindi",
+        "description": "Say \"Aaj 800 kg gobar liya\" → App saves it automatically."
+      },
+      "scan": {
+        "title": "Scan cow tags",
+        "description": "Point your phone at the Gau Aadhaar tag—no writing needed."
+      },
+      "weight": {
+        "title": "Weight comes by itself",
+        "description": "Smart scale sends slurry weight straight to your phone."
+      },
+      "truck": {
+        "title": "See your truck on map",
+        "description": "Know where your slurry truck is at any time."
+      },
+      "reminders": {
+        "title": "Get voice reminders",
+        "description": "Phone tells you: \"Kal 4 baje Shri Krishna Gaushala jana hai.\""
+      },
+      "offline": {
+        "title": "Works without internet",
+        "description": "Save data offline. It uploads when you get signal."
+      }
+    }
+  },
+  "features": {
+    "title": "Your Daily Workflow Made",
+    "subtitle": "Simple and Automatic!",
+    "step1": {
+      "title": "Open the app in the morning",
+      "description": "See your tasks for the day."
+    },
+    "step2": {
+      "title": "While working",
+      "description": "Scan, speak, or let the scale send weight."
+    },
+    "step3": {
+      "title": "Finish your day",
+      "description": "Everything is saved and sent—no extra work!"
+    },
+    "stats": {
+      "farmers": "Farmers Onboarded",
+      "executives": "Field Executives",
+      "scans": "RFID Scans Completed",
+      "success": "Offline Success Rate"
+    },
+    "ctaButton": "Get Started Today"
+  },
+  "acceptance": {
+    "title": "Made for Real Field Conditions",
+    "subtitle": "Designed specifically for Gau-sewa workers in rural India.",
+    "noTyping": "No typing",
+    "poorNetwork": "Works in villages with poor network",
+    "hindiVoice": "Voice in clear Hindi",
+    "bigButtons": "Big buttons, easy to use",
+    "free": "100% free for Gau-sewa workers"
+  },
+  "preview": {
+    "title": "Experience GauSakhi in Action",
+    "subtitle": "Optimized for rural connectivity and designed for Indic users with intuitive interfaces.",
+    "features": {
+      "registration": "Real-time farmer registration form",
+      "voice": "Voice-to-text entry in Indic languages",
+      "sync": "Automatic sync with visual confirmation",
+      "offline": "Offline mode with pending queue display"
+    },
+    "testimonial": {
+      "text": "Pehle roz register bharna padta tha. Ab bas bolta hoon—kaam ho jata hai!",
+      "author": "Ramesh, Gau-sewa Worker, Uttar Pradesh"
+    }
+  }
+}
